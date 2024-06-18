@@ -7,13 +7,13 @@
 - ✨ Passionate about software development. 
 - 👋🏻 Don't hesitate to reach out and say Hi! 👨🏻
 - 🌟 Let's connect & build something extraordinary together! 👥
-- 📫 You can reach me at [this email](chandra.sekhar.k2204@gmail.com) 📧
+- 📫 You can reach me at [this email](mailto:chandra.sekhar.k2204@gmail.com) 📧
 <br><br>
 
 
 <b><h2>Connect with me on:</h2></b>
 <a href="https://www.linkedin.com/in/chandra-sekhar-kotturu-9a97a21a5/"><img height="30px" src="https://img.shields.io/badge/linkedin-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-<a href="chandra.sekhar.k2204@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:chandra.sekhar.k2204@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <h2><b>Programming Languages:</b></h2>
 
